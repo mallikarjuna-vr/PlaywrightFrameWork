@@ -4,3 +4,4 @@ pytest-playwright
 pytest-html
 allure-pytest
 pytest-rerunfailures
+pytest-xdist
