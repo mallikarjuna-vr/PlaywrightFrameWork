@@ -3,5 +3,6 @@ playwright
 pytest-playwright
 pytest-html
 allure-pytest
+faker
 pytest-rerunfailures
 pytest-xdist
