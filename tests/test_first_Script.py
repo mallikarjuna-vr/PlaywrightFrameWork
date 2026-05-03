@@ -52,5 +52,3 @@ class Test_E2Escenierio1:
         info_page.enter_checkout_information()
         overview_page.placeOrder()
         home_page.logout_from_application()
-
-    def test_
